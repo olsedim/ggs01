@@ -1,5 +1,5 @@
 applications:
-- buildpack: https://github.com/olsedim/ggs01.git
+- buildpack: "https://github.com/olsedim/ggs01.git"
   host: mytestggs_unique
   name: mytestggs
   memory: 64M
